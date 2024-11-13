@@ -4,7 +4,7 @@ import ThemeLink from "./ThemeLink";
 
 const Navbar = () => {
     return (
-        <header className="bg-violet-600 fixed top-0 right-0 left-0 w-full h-14 flex items-center justify-between py-4 px-16 text-slate-50">
+        <header className="bg-violet-600 fixed top-0 right-0 left-0 w-full flex items-center justify-between py-4 px-16 text-slate-50">
             <Link className="font-bold text-2xl md:text-4xl" href="/">
                 Invoicer
             </Link>
